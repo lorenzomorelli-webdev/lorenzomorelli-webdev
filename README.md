@@ -9,7 +9,7 @@ I'm Lorenzo, a web developer passionate about creating interactive and visually 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ## How to reach me 🌐
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzo-morelli-693675152/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzomorelli-webdev/)
 - Watch my [YouTube channel](https://www.youtube.com/@lorenzomorelli-webdev)
 
 
