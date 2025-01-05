@@ -11,6 +11,7 @@ I'm Lorenzo, a web developer passionate about creating interactive and visually 
 ## How to reach me 🌐
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzomorelli-webdev/)
 - Watch my [YouTube channel](https://www.youtube.com/@lorenzomorelli-webdev)
+- All my awesome Links [Linktr.ee](https://linktr.ee/lorenzomorelli_webdev)
 
 
 <!--
